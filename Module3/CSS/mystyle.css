@@ -1,0 +1,62 @@
+*
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content-box
+{
+    background-color: rgb(205, 235, 225);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+
+h1
+
+{
+color: blueviolet;
+font-weight: bold;
+}
+
+.item-name {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(96, 96, 221);
+}
+
+
+nav {
+    background-color: blue !important;
+}
+
+ul {
+    color: white;
+}
+
+#myNavbar.collapsing,
+#myNavbar.show {
+    display: block;
+}
+
+
+#myNavbar {
+    display: none;
+}
+
+#myNavbar.show {
+    display: block;
+}
+
+li
+{
+    text-align: center;
+    font-size: 1.3em;
+}
+
+.navbar-brand
+
+{
+
+    font-size: 2em;
+}
